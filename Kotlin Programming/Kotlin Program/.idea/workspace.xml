@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c538aa8-8755-4f6a-8381-8deabcba6533" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Function.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Function1.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hi.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +34,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Kotlin.FunctionKt">
+  <component name="RunManager" selected="Kotlin.Function1Kt">
     <configuration name="ArithmeticKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArithmeticKt" />
+      <module name="Kotlin Program" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Function1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Function1Kt" />
       <module name="Kotlin Program" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,6 +72,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Function1Kt" />
         <item itemvalue="Kotlin.FunctionKt" />
         <item itemvalue="Kotlin.PracticeKt" />
         <item itemvalue="Kotlin.HiKt" />
