@@ -2,103 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6f1e65a-1caf-411d-a7a8-11e3c1575e44" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/piash/Revision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KotlinProgramming/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KotlinProgramming/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KotlinProgramming/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KotlinProgramming/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KotlinProgramming/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KotlinProgramming/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KotlinProgramming/KotlinProgramming.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KotlinProgramming/src/main/kotlin/Hi.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercise/com/piash/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/piash/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/piash/Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/.idea/Kotlin Programming.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/Kotlin Program.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/lib/kotlin-reflect-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/lib/kotlin-reflect.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/lib/kotlin-stdlib-jdk7-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/lib/kotlin-stdlib-jdk7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/lib/kotlin-stdlib-jdk8-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/lib/kotlin-stdlib-jdk8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/lib/kotlin-stdlib-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/lib/kotlin-stdlib.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/lib/kotlin-test-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/lib/kotlin-test.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/out/production/Kotlin Program/ArithmeticKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/out/production/Kotlin Program/Array1Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/out/production/Kotlin Program/Array2Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/out/production/Kotlin Program/ArrayKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/out/production/Kotlin Program/ForLoop1Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/out/production/Kotlin Program/ForLoop2Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/out/production/Kotlin Program/ForLoop3Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/out/production/Kotlin Program/ForLoopKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/out/production/Kotlin Program/Function1Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/out/production/Kotlin Program/FunctionKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/out/production/Kotlin Program/Logical_OperatorKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/out/production/Kotlin Program/META-INF/Kotlin Program.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/out/production/Kotlin Program/MainKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/out/production/Kotlin Program/PalindromeKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/out/production/Kotlin Program/StringKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/out/production/Kotlin Program/User_InputKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/out/production/Kotlin Program/WhileLoopKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/src/Arithmetic.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/src/Array.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/src/Array1.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/src/Array2.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/src/ForLoop.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/src/ForLoop1.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/src/ForLoop2.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/src/ForLoop3.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/src/Function.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/src/Function1.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/src/Logical Operator.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/src/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/src/Palindrome.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/src/String.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/src/User Input.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/Kotlin Program/src/WhileLoop.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/KotlinTurorials/.gradle/7.1.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/KotlinTurorials/.gradle/7.1.1/dependencies-accessors/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/KotlinTurorials/.gradle/7.1.1/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/KotlinTurorials/.gradle/7.1.1/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/KotlinTurorials/.gradle/7.1.1/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/KotlinTurorials/.gradle/7.1.1/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/KotlinTurorials/.gradle/7.1.1/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/KotlinTurorials/.gradle/7.1.1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/KotlinTurorials/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/KotlinTurorials/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/KotlinTurorials/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/KotlinTurorials/.gradle/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/KotlinTurorials/.gradle/checksums/md5-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/KotlinTurorials/.gradle/checksums/sha1-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/KotlinTurorials/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/KotlinTurorials/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/KotlinTurorials/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/KotlinTurorials/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/KotlinTurorials/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/KotlinTurorials/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/KotlinTurorials/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/KotlinTurorials/settings.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/KotlinTurorials/src/main/kotlin/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/PracticeSet/PracticeSet.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/PracticeSet/out/production/PracticeSet/AgeKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/PracticeSet/out/production/PracticeSet/AverageKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/PracticeSet/out/production/PracticeSet/ListKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/PracticeSet/out/production/PracticeSet/META-INF/PracticeSet.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/PracticeSet/out/production/PracticeSet/ReverseKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/PracticeSet/out/production/PracticeSet/SumKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/PracticeSet/out/production/PracticeSet/WhenKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/PracticeSet/src/Age.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/PracticeSet/src/Average.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/PracticeSet/src/List.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/PracticeSet/src/Reverse.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/PracticeSet/src/Sum.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Programming/PracticeSet/src/When.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/piash/Revision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/piash/Revision.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +34,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Kotlin Programming" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Revision">
     <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.piash.Practice" />
       <module name="Java Exercise" />
@@ -143,8 +48,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Revision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.piash.Revision" />
+      <module name="Java Exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.piash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Revision" />
         <item itemvalue="Application.Practice" />
       </list>
     </recent_temporary>
