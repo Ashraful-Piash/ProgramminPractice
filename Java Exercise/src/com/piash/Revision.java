@@ -14,6 +14,7 @@ public class Revision {
         byte x = 1;
         byte y =x;
          x = 2;
+
         Point point1 = new Point(1,2);
         Point point2 = point1;
         point1.x = 3;
@@ -24,7 +25,7 @@ public class Revision {
 
         System.out.println(now);
 
-       
+
 
 
     }
