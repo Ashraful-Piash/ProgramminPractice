@@ -24,6 +24,7 @@ public class Revision {
 
         System.out.println(now);
         System.out.println("Alhamdulillah");
+        System.out.println("In sha ALLAH I will do well");
 
 
 
