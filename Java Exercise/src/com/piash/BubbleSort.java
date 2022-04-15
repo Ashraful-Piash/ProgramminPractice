@@ -19,5 +19,6 @@ public class BubbleSort {
             }
         }
         System.out.println("Array after sortin:"+Arrays.toString(a));
+        System.out.println("Thats all for today");
     }
 }
